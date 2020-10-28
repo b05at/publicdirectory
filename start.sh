@@ -1,2 +1,2 @@
 #!/bin/bash
-crond -n
+cron -n
