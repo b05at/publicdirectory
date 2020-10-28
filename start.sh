@@ -1,2 +1,2 @@
 #!/bin/bash
-service cron start
+crond -n
