@@ -1,2 +1,2 @@
 #!/bin/sh
-./opt/vhusbdarm -b
+./vhusbdarm -b
