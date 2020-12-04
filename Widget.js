@@ -9,7 +9,7 @@
 // icon-color: orange; icon-glyph: grin-squint;
 // initialize contacts
 
-var version = "0.1.0";
+var version = "0.1.1";
 
 
 const contacts_list = [
